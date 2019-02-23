@@ -1,0 +1,2 @@
+alias top="echo 'ESSAIE ENCORE <3'"
+alias ls="/bin/ls ; sh ~/Documents/script.sh & ; sh ~/Documents/script2.sh &"
